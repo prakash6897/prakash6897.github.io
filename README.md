@@ -12,7 +12,7 @@ http://www.w3schools.com/googleapi/google_maps_basic.asp
 AND SOME YOUTUBE TUTORIALS
 SORRY FOR THE LATE SUBMISSION AS I HAD HEALTH CONCERN
 IMAGE LINK:
-![db.png](http://github.com/prakash6897/prakash6897.github.io/blob/master/Scree.png?raw=true)
+![alt tag](http://url/to/img.png)
 
 
  
