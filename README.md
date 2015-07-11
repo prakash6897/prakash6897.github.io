@@ -12,7 +12,8 @@ http://www.w3schools.com/googleapi/google_maps_basic.asp
 AND SOME YOUTUBE TUTORIALS
 SORRY FOR THE LATE SUBMISSION AS I HAD HEALTH CONCERN
 IMAGE LINK:
-![My image](prakash6897.github.com/repository/img/db.png
+![My image](prakash6897.github.com/repository/img/image.jpg
+
 
  
 
